@@ -8261,7 +8261,7 @@ window.onload=function()
 		{
 			var script=document.createElement('script');
 			script.id='metascript';
-			script.setAttribute('src','//orteil.dashnet.org/metaLegacy.js?r='+Math.random());//we add a random bit to the URL to prevent caching
+			script.setAttribute('src','metaLegacy.js?r='+Math.random());//we add a random bit to the URL to prevent caching
 			script.onload=function()
 			{
 				Meta();
