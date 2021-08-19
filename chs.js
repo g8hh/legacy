@@ -601,7 +601,7 @@ var cnItems = {
     'handles other fire-related tasks': '处理其他与火灾有关的任务',
     'Hides': '皮毛',
     'Homelessness with more than 15 population leads to lower birth rates.': '超过 15 人的无家可归导致出生率降低。',
-    'Housing': '住房',
+    'Housing': '住宅',
     'Hunter': '猎人',
     'is where people of all professions gather to rest and store their tools.': '是各行各业的人们聚集在一起休息和存放工具的地方。',
     'Lodge': '旅馆',
